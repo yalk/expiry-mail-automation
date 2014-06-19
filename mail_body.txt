@@ -1,0 +1,9 @@
+dear,
+something
+line1
+sad asd asd  asd
+
+regards
+test
+
+edit this file to change the body of the mail
